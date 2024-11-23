@@ -35,3 +35,10 @@ O objetivo deste projeto foi explorar o controle de hardware da Raspberry Pi atr
 ### Requisitos:
 - Uma Raspberry Pi com sistema operacional baseado em Linux.
 - Conexões de hardware para o buzzer e LEDs nos GPIOs especificados.
+
+
+# Demonstração do Projeto
+
+Confira o vídeo demonstrando o funcionamento do projeto:
+
+[![Vídeo de Demonstração] https://www.youtube.com/watch?v=K0HPtzugv54
