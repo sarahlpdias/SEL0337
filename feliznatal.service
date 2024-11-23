@@ -1,0 +1,12 @@
+[Unit]
+Description = Natalina
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/mhc/natalina.py
+ExecStop=/usr/bin/python3 /home/mhc/parando.py
+
+User=mhc
+
+[Install]
+WantedBy=multi-user.target
